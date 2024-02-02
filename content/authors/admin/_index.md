@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Ben Benhemo (0xBentz1) - Security Engineer & Researcher
+title: Ben Benhemo - Security Engineer & Researcher
 
 # Name pronunciation (optional)
-name_pronunciation: Ben Benhemo
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ben
@@ -21,9 +21,8 @@ role: Cyber Security Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
+  - name: K Health
+    url: 
 # Short bio (displayed in user profile at end of posts)
 bio: Security Research
 
@@ -34,14 +33,14 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    '''url: uploads/resume.pdf'''
     label: Download my resume
   - icon: rss
     url: ./post/index.xml
@@ -54,6 +53,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ben Benhemo is a Cyber Security Engineer focusing on Cloud & AppSec & Blue Team Domains.
