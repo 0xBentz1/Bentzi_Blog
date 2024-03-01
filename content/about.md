@@ -2,7 +2,7 @@
 title: About Me 
 
 sections:
-  - block: experience
+  - block: resume-experience
     content:
       title: Experience 
       date_format: 'January 2006'
@@ -14,9 +14,8 @@ sections:
           location: California
           date_start: '2021-01-01'
           date_end: ''
-          description: |2-
+          description: 
               Responsibilities include:
-
               * Analysing
               * Modelling
               * Deploying
