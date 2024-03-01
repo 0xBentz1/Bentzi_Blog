@@ -47,6 +47,19 @@ highlight_name: true
 
 # Author's website URL
 website: ""
+
+#Education 
+education:
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 ---
 
 Hi there! I'm Ben Benhemo 👨‍💻, a dedicated Security Engineer and Researcher with a passion for safeguarding the cloud ☁️. Specializing in DevSecOps, application security, and threat hunting, I'm here to share insights and innovations to fortify your digital world 🛡️. If you're eager to connect or dive deeper into cybersecurity realms, feel free to reach out 📧!
