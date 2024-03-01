@@ -59,4 +59,7 @@ Exprience:
       year: 2008
 ---
 
-Hi there! I'm Ben Benhemo 👨‍💻, a dedicated Security Engineer and Researcher with a passion for safeguarding the cloud ☁️. Specializing in DevSecOps, application security, and threat hunting, I'm here to share insights and innovations to fortify your digital world 🛡️. If you're eager to connect or dive deeper into cybersecurity realms, feel free to reach out 📧!
+Hi there! I'm Ben Benhemo 👨‍💻 
+A dedicated Security Engineer and Researcher with a passion for safeguarding the cloud ☁️. 
+Specializing in DevSecOps, application security, and threat hunting, I'm here to share insights and innovations to fortify your digital world 🛡️. 
+If you're eager to connect or dive deeper into cybersecurity realms, feel free to reach out 📧!
