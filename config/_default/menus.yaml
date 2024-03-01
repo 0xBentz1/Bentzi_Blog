@@ -12,5 +12,5 @@ main:
     url: uses/
     weight: 30
   - name: About Me
-    url: Resume/
+    url: about/
     weight: 30
