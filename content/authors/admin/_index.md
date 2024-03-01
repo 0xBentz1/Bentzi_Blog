@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ben Benhemo - Security Engineer & Researcher
+title: Ben Benhemo
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Cyber Security Engineer 
+role: Security Engineer & Researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -35,9 +35,6 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/benbenhamo
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
@@ -49,7 +46,7 @@ highlight_name: true
 website: ""
 
 #Education 
-education:
+Exprience:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
