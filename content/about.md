@@ -5,7 +5,7 @@ sections:
   - block: resume-experience
     content:
       # The user's folder name in `content/authors/`
-      username: admin
+      username: ben
     design:
       # Hugo date format
       date_format: 'January 2006'
