@@ -46,7 +46,7 @@ highlight_name: true
 website: ""
 
 #Education 
-Exprience:
+exprience:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
