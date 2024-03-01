@@ -1,6 +1,5 @@
 ---
 title: About Me 
-type: landing
 
 sections:
   - block: experience
