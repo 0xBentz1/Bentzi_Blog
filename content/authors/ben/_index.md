@@ -1,13 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+title: Ben Benhemo
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ben
+last_name: Benhemo
 
 # Status emoji
 status:
@@ -17,12 +16,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Security Engineer & Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: K Health
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,7 +39,7 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: CSP
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -72,29 +71,33 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Incident Response & Threat Hunter
+    company_name: HUB Security 
+    company_url: 'https://hubsecurity.com/'
+    company_logo: 'https://www.ukisraelhub.com/wp-content/uploads/2020/05/logo19.jpg'
+    date_start: 2021-12-01
+    date_end: 2023-04-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Conducting research and analyzing malware for incident response and intelligence (Static, Dynamic, and Reverse Engineering).
+      - Operating forensics tools and analysis – Autopsy, Sysinternals, FTK, Volatility, Velociraptor.
+      - Handling advanced information security incidents in the private sector through all phases (Preparation, Detection and Analysis, Containment Eradication and Recovery, Post-Incident Activity)
+      - Purple Team activities and research (Threat Modeling, MITRE ATTACK, mimic APT TTPs).
+      - Security audits and pentests in private/finance sectors, expertise in security systems (Firewalls, EDR, Anti-Virus, IDS/IPS).
+      
+  - position: Consultant - Incident Response & Threat Hunting
+    company_name: EPAM
+    company_url: 'https://www.epam.com/'
+    company_logo: 'https://content.unqork.com/hubfs/epam.png#keepProtocol'
+    date_start: 2021-03-01
+    date_end: 2021-11-01
+    summary: |
+      Responsibilities include:
+      - Handling Advanced Information Security Incidents.
+      - Creating, executing, and integrating behavioral indicators and process-based defense rules for security systems (Such as Splunk, Cortex XDR, ELK, SentinelOne, and more).
+      - Deployed ElasticSearch infrastructure for private sector threat hunting.
+      - Operated in a medical Security Operation Center, managing alerts via IBM Qradar SIEM.
+      - Executed security audits and penetration testing in private and financial sectors, experienced with Firewalls, EDR, Anti-Virus, IDS, IPS, etc.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
