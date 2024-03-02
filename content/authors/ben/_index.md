@@ -118,19 +118,19 @@ skills:
       - name: AWS
         description: ''
         percent: 80
-        icon: devicon/amazonwebservices-plain-wordmark
+        icon: devicon/amazonwebservices
       - name: GCP
         description: ''
         percent: 80
-        icon: devicon/googlecloud-plain
+        icon: devicon/googlecloud
       - name: GitLab
         description: ''
         percent: 80
-        icon: devicon/gitlab-plain
+        icon: devicon/gitlab
       - name: Python
         description: ''
         percent: 70
-        icon: devicon/python-plain
+        icon: devicon/python
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -167,26 +167,8 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-As a Security Operations Engineer at K Health, I'm dedicated to enhancing our company's security posture and capabilities.\n 
-My role involves implementing cutting-edge strategies and technologies to safeguard our digital assets and infrastructure, ensuring robust defense mechanisms are in place to protect against emerging threats. \n
+As a Security Operations Engineer at K Health, I'm dedicated to enhancing our company's security posture and capabilities.
+My role involves implementing cutting-edge strategies and technologies to safeguard our digital assets and infrastructure, ensuring robust defense mechanisms are in place to protect against emerging threats. 
 Through continuous monitoring and improvement of our security operations, I'm committed to maintaining the highest standards of protection for our data and systems.
