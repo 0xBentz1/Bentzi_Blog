@@ -2,7 +2,7 @@
 # Display name
 title: Ben Benhemo
 
-# Name pronunciation (optional)
+# Name pronunciation (optional)f
 name_pronunciation: 
 
 # Full name (for SEO)
