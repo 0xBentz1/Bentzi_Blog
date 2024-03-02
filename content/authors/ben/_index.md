@@ -80,8 +80,9 @@ work:
     summary: |
       Responsibilities include:
       - Cloud Security: Implementing security measures, best practices, and detection capabilities in cloud environments, primarily AWS and GCP.
-      - DevSecOps & AppSec: Collaborates with DevOps and leads the implementation of security scanning tools throughout the Software Development Life Cycle (SDLC). Responsible for leading the AppSec efforts, collaborating with developers to create more secure code, and remediating security flaws such as OWASP TOP 10, Secret Scanning, and more.
-      - Security Operations & Incident Response: Triaging SIEM alerts, managing end-to-end security incident response operations, from initial detection to resolution and post-incident analysis. Developing custom detection rules to maximize detection capabilities and enhance visibility.
+      - DevSecOps & AppSec: Integrated security in SDLC, led AppSec for secure code and remediated flaws (OWASP TOP 10, Secret Scanning).
+      - Security Operations & Incident Response: Triaging SIEM alerts, managing end-to-end security incident response operations, from initial detection to resolution and post-incident analysis. 
+      - Developing custom detection rules to maximize detection capabilities and enhance visibility.
       - Vulnerability Management: Leading the vulnerability program and remediation process using various platforms and a ticketing service. These include Cloud Security Posture Management (CSPM), BugBounty program, AppSec findings, and open source tools.
   - position: Incident Response & Threat Hunter
     company_name: HUB Security 
@@ -186,4 +187,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+As a Security Operations Engineer at K Health, I'm dedicated to enhancing our company's security posture and capabilities.\n 
+My role involves implementing cutting-edge strategies and technologies to safeguard our digital assets and infrastructure, ensuring robust defense mechanisms are in place to protect against emerging threats. \n
+Through continuous monitoring and improvement of our security operations, I'm committed to maintaining the highest standards of protection for our data and systems.
