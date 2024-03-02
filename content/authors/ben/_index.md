@@ -71,6 +71,18 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Security Operations Engineer 
+    company_name: K Health 
+    company_url: 'https://khealth.com/'
+    company_logo: ''
+    date_start: 2023-05-01
+    date_end: Current
+    summary: |
+      Responsibilities include:
+      - Cloud Security: Implementing security measures, best practices, and detection capabilities in cloud environments, primarily AWS and GCP.
+      - DevSecOps & AppSec: Collaborates with DevOps and leads the implementation of security scanning tools throughout the Software Development Life Cycle (SDLC). Responsible for leading the AppSec efforts, collaborating with developers to create more secure code, and remediating security flaws such as OWASP TOP 10, Secret Scanning, and more.
+      - Security Operations & Incident Response: Triaging SIEM alerts, managing end-to-end security incident response operations, from initial detection to resolution and post-incident analysis. Developing custom detection rules to maximize detection capabilities and enhance visibility.
+      - Vulnerability Management: Leading the vulnerability program and remediation process using various platforms and a ticketing service. These include Cloud Security Posture Management (CSPM), BugBounty program, AppSec findings, and open source tools.
   - position: Incident Response & Threat Hunter
     company_name: HUB Security 
     company_url: 'https://hubsecurity.com/'
@@ -84,7 +96,6 @@ work:
       - Handling advanced information security incidents in the private sector through all phases (Preparation, Detection and Analysis, Containment Eradication and Recovery, Post-Incident Activity)
       - Purple Team activities and research (Threat Modeling, MITRE ATTACK, mimic APT TTPs).
       - Security audits and pentests in private/finance sectors, expertise in security systems (Firewalls, EDR, Anti-Virus, IDS/IPS).
-      
   - position: Consultant - Incident Response & Threat Hunting
     company_name: EPAM
     company_url: 'https://www.epam.com/'
@@ -103,18 +114,22 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: AWS
         description: ''
         percent: 80
-        icon: devicon/python
-      - name: RStudio
+        icon: devicon/amazonwebservices-plain-wordmark
+      - name: GCP
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: 80
+        icon: devicon/googlecloud-plain
+      - name: GitLab
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 80
+        icon: devicon/gitlab-plain
+      - name: Python
+        description: ''
+        percent: 70
+        icon: devicon/python-plain
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -134,11 +149,10 @@ skills:
 
 languages:
   - name: English
+    percent: 90
+  - name: Hebrew
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
