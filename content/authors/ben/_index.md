@@ -76,7 +76,7 @@ work:
     company_url: 'https://khealth.com/'
     company_logo: ''
     date_start: 2023-05-01
-    date_end: Current
+    date_end: ''
     summary: |
       Responsibilities include:
       - Cloud Security: Implementing security measures, best practices, and detection capabilities in cloud environments, primarily AWS and GCP.
